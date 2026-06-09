@@ -1,0 +1,16 @@
+
+transformers
+torch
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+streamlit
+plotly
+datasets
+accelerate
+sentencepiece
+huggingface_hub
+joblib
+openai
